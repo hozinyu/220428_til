@@ -1,0 +1,8 @@
+* { box-sizing: border-box; margin: 0;}
+
+textarea { 
+    margin-top: 200px;
+    border-style: none; width: 100%;
+    color: tomato; font-size: 23px;
+    font-weight: 600; }
+
